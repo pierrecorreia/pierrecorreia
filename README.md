@@ -1,5 +1,7 @@
 # Olá, eu sou o João 👋
 
+🌐 **Portfólio:** [meu-portfolio.com](https://pierrecorreia.github.io)
+
 ### 💻 Desenvolvedor | 🖥️ TI | 🔐 Cibersegurança | ☁️ Salesforce Developer
 
 Cursando **Análise e Desenvolvimento de Sistemas (UNIP)**, com formatura prevista para **agosto de 2027**. Meu foco é entrar na área de **cibersegurança**, e hoje estudo na prática montando laboratórios, resolvendo desafios e escrevendo ferramentas em Python.
